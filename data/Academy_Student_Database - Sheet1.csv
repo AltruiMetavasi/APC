@@ -1,0 +1,161 @@
+insur,Name,DoB,Age,Age Range,Gender,Domicile,Education,Major,DS_Relation,Employement,Company,Industry,Job_Title,Specialization,Payment,Cash_Type,Installment_Type,Time_Slot,Funding,Sales
+1,Slamet Natalegam Widjaja,26-Dec-1982,36,,Male,Jakarta,S1,Economics,DS_Unrelated,Unemployed,,,,FT,Cash,,,Night,Self_funding,Sendi
+1,Natali Ardianto,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,JT
+1,Hendra Respati,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Mulia
+1,Rebecca Jiemy,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+1,Febrianus D. Wibisono,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+1,Sergio Rinaldi,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+1,Lucky Arsanto,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Mulia
+1,Sheila Zivana Lasahido,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Mulia
+1,Tio Anta Wibawa,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Mulia
+1,Giandomenico Zappia,,,,,,,,,,,,,DV,Installment,,,Night,Self_funding,Mulia
+1,Alexander Panjaitan,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Chiara
+1,Boedy,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Chiara
+1,Safira Raharjo,,,,,,,,,,,,,DV,Cash,,,Night,Self_funding,Chiara
+1,Gomgom Fernando Simanjuntak,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Mulia
+1,Arif Medianto,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Mulia
+2,Adi Purnomo,19-May-1985,33,,Male,Jakarta,S1,Accounting,DS_Unrelated,Employed,Rabobank Indonesia,Bank,Head of Reporting,ML,Cash,,,Night,Corporate,Mulia
+2,Risky Ismiaji,28-Aug-1991,27,,Male,Tangerang,S1,Economics,DS_Unrelated,Unemployed,,,,FT,Installment,,,Night,Self_funding,Sendi
+2,Yoas,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+2,Agus Wahyudi,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+2,Mahendra Dhiraj,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+2,Kristianus Eko Priyantono,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+2,Nursyah,,,,,,,,,,,,,ML,Cash,,,Night,Corporate,Chiara
+2,Rachmania Kristanti,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Chiara
+2,Kukuh Heruman Putro,,,,,,,,,,,,,FT,Installment,,,Night,Self_funding,Megy
+2,Fikry Maulana,,,,,,,,,,,,,ML,Installment,,,Night,Self_funding,Chiara
+2,Bramantyo,,,,,,,,,,,,,ML,Cash,,,Night,Corporate,Mulia
+2,Andreas Eduardo,,,,,,,,,,,,,ML,Cash,,,Night,Corporate,Chiara
+2,Fandy Permana,,,,,,,,,,,,,FT,,,,Night,Complimentary,JT
+2,Alexander Panjaitan,,,,,,,,,,,,,ML,Cash,,,Night,Corporate,Chiara
+2,Emir Rasjad,,,,,,,,,,,,,FT,Installment,,,Night,Self_funding,Sendi
+2,Yogi Sumarna,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Calvin
+2,Jauhari Dwiputra Fadila,,,,,,,,,,,,,,,,,,,
+3,Tubagus Adam Mahendra,02-Mar-1992,27,,Male,Bogor,S1,IS,DS_Related,Unemployed,,,,FT,Cash,,,Night,Self_funding,Mulia
+3,Ajeng Putriarni Syarasyalma,31-Oct-1988,30,,Female,Jakarta,Others,Design Engineering,DS_Unrelated,Employed,Melintas Cakrawala Indonesia,,Operation Manager,DV,Installment,,,Night,Self_funding,Isna
+3,Tus Suryono,,,,Male,Jakarta,S1,Accounting,DS_Unrelated,Employed,PLN,,Deputi Manajer Pengembangan Infrastruktur dan IT,DV,Cash,,,Night,Corporate,Isna
+3,Denny Permana,07-Feb-1973,46,,Male,Tangerang,S2,Telecommunication Engineering,DS_Unrelated,Employed,Mitra Pinashtika Mustika,,GM IT,FT,Installment,,,Night,Self_funding,Isna
+3,Muhammad Ferdyansyah,13-Oct-1989,29,,Male,Jakarta,S2,Biotechnology,DS_Unrelated,Employed,,,,FT,Installment,,,Night,Self_funding,Megy
+3,Fernandez Elian,20-Sep-1995,23,,Male,Bekasi,S1,Electrical Engineering,DS_Unrelated,Employed,Kawan Lama Sejahtera,,Product Representative,FT,Installment,,,Night,Self_funding,Isna
+3,Hendrik Tanaka,14-Apr-1979,39,,Male,Jakarta,S1,Civil Engineering,DS_Unrelated,Employed,Aditama Finance,,Head of Business,DV,Cash,CC,,Night,Self_funding,Mulia
+3,Jonathan Chrisnaldy,16-Jun-1999,19,,Male,Jakarta,S1,IT-Statistics,DS_Related,Unemployed,,,,FT,Installment,,,Night,Self_funding,Megy
+3,Juliyan,06-Jul-1990,28,,Male,,S1,IS,DS_Related,Employed,Tugu Pratama Indonesia,,Programmer,FT,Installment,,,Night,Self_funding,Calvin
+3,Kurnia Agung Darmawan,17-May-1969,49,,Male,Jakarta,S1,,,Employed,Medialogy,,Strategist,FT,Cash,,,Night,Corporate,Calvin
+3,Levina Lailani Suprapto,29-May-1992,26,,Female,Jakarta,S1,Environmental Engineering,DS_Unrelated,Employed,Payfazz Teknologi Nusantara,,HR Manager,FT,Installment,,,Night,Self_funding,Calvin
+3,Michael Henry Hutagalung,19-May-1974,44,,Male,Jakarta,S1,Finance,DS_Unrelated,Employed,ICON +,,Business Analyst,FT,Installment,,,Night,Self_funding,Isna
+3,Qorry Aulia Asfar,01-Feb-1996,23,,Female,Sidoarjo,S2,Marketing,DS_Unrelated,Employed,Safari Tursina,,Manager,FT,Installment,,,Night,Self_funding,Calvin
+3,Rakadipta Septian Dwiputra,13-May-1996,22,,Male,Jakarta,S1,Statistics,DS_Related,Employed,Ministry of Environment & Forestry,,Staff,FT,Installment,,,Night,Self_funding,Isna
+3,Ramadhan Danang Wijaya,02-Mar-1984,35,,Male,Bekasi,S1,Geophysics,DS_Unrelated,Employed,CGG,,Imaging Project Leader,DV,Installment,,,Night,Self_funding,Calvin
+3,Ray Armanto,04-Jun-1995,23,,Male,Bekasi,Others,,,Unemployed,,,,DV,Installment,,,Night,Self_funding,
+3,Rendy Herison,20-Mar-1988,31,,Male,Jakarta,Others,,,Employed,Medialogy,,Creative Director,FT,Cash,,,Night,Corporate,Calvin
+3,Shelloren,18-Mar-1995,24,,Female,Jakarta,S1,Business Management,DS_Unrelated,Unemployed,,,,FT,Installment,,Pinduit,Night,Self_funding,
+3,Tania Octavia,22-Oct-1987,31,,Female,Tangerang,S1,Business Administration,DS_Unrelated,Employed,Bank Danamon,,"AVP, Cash Management Product Specialist",FT,Installment,,,Night,Self_funding,Calvin
+3,Teddy Wijaya,22-Nov-1992,26,,Male,Tangerang,S1,Computer Science,DS_Related,Employed,Putranto Alliance,,IT Application,FT,Installment,,,Night,Self_funding,Isna
+3,Devid Akmalhadi,2-Dec-1975,43,,Male,Bekasi,S2,Management,DS_Unrelated,Employed,ABM Investama,,Business Process Investment,DV,Cash,,,Night,Corporate,Isna
+3,Dody Setiawan,18-May-1990,28,,Male,Jakarta,S2,Sustainable Development,DS_Unrelated,Employed,GIZ LCORE,,Advisor,FT,Cash,,,Night,Corporate,Isna
+3,Franky Riyadi Rivan,13-Oct-1992,26,,Male,Jakarta,S1,Business Administration,DS_Unrelated,Employed,Kresna Securities,,Senior Research Analyst,FT,Installment,,Pinduit,Night,Self_funding,Isna
+3,Taufan Yuri Adrian,16-Jun-1997,21,,Male,Tangerang,S1,Physics,DS_Unrelated,Unemployed,,,,DV,Cash,,,Night,Self_funding,Mulia
+3,Yudhistira Adi Satryo,,,,,,,,,,,,,FT,Installment,,,Night,Self_funding,Sendi
+3,Adrian Fitra Donnovan,,,,,,,,,,,,,DV,Installment,,,Night,Self_funding,Megy
+3,Lucas Elbert Suryana,,,,,,,,,,,,,DV,Installment,,,Night,Self_funding,Megy
+3,Soraya Rizka Keumala,,,,,,,,,,,,,DV,Installment,,,Night,Self_funding,Megy
+3,Nur Hafni Rahayu,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Isna
+3,Abdan Nafik,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Isna
+3,Benny Adhetya,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Isna
+3,Yuri Arvian,,,,,,,,,,,,,DV,Cash,,,Night,Self_funding,Mulia
+3,Bramantyo Santoso,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Mulia
+3,Patalo Selobakin,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Mulia
+3,Yohanes Ariyanto Wibowo,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Sendi
+4,Acil Sutrisno Setiawan,07-Jun-1987,31,,Male,Bandung,S1,Mathematics,DS_Unrelated,Employed,Micropay Nusantara,,Data Analyst,FT,Cash,,,Night,Corporate ,Isna
+4,Edwin Yurianto,10-Jun-1993,25,,Male,,S1,Civil Engineering,DS_Unrelated,Unemployed,,,,FT,Installment,,,Night,Self_funding,Dimas
+4,Gatra Sandi Nugraha,23-Jun-1992,26,,Male,Tangerang,S1,Computer Science,DS_Related,Employed,Supra Boga Lestari ,,IT SAP MM,FT,Cash,,,Night,Self_funding,Dimas
+4,Maringan Octoberi Siregar,09-Oct-1979,39,,Male,Jakarta,Others,,,Employed,Bank ICBC Indonesia,Bank,IT Application Support,ML,Cash,,,Night,Corporate ,Dimas
+4,Muhlis Adiwiguna,28-Jun-1992,26,,Male,Bogor,S1,Financial Management,DS_Unrelated,Employed,Bank Woori Saudara,Bank,Operational Staff,FT,Cash,,,Night,Self_funding,Isna
+4,Muhamad Irfan Agia,01-Sep-1993,25,,Male,Jakarta,S2,Consumer Psychology,DS_Unrelated,Employed,REA Group - Asia,,Behavioral Scientist,DV,Cash,,,Night,Self_funding,Diandra
+4,Harijanto Bone,09-Jun-1985,33,,Male,Jakarta,S2,Science,DS_Unrelated,Employed,Bank Danamon Indonesia,Bank,Customer Experience Lead,ML,Cash,,,Night,Self_funding,Diandra
+4,Christine Siagian,31-Dec-1985,33,,Female,Jakarta,S2,Strategic Management,DS_Unrelated,Employed,International Design School,,Marketing Analytics Manager,FT,Installment,,Pinduit,Night,Self_funding,Diandra
+4,Andhika Samudra,,,,,,,,,,,,,DV,Cash,,,Night,Corporate ,Dimas
+4,Achmad Gunar Saadi,,,,,,,,,,,,,ML,Installment,,Pinduit,Night,Self_funding,Isna
+4,Stephanus Krisna Ekaputra Halim,,,,,,,,,,,,,ML,Cash,,,Night,Self_funding,Mulia
+4,Alvernia Eka Poetry,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Mulia
+4,Julius Fenata,,,,,,,,,,,,,FT,Installment,,,Night,Self_funding,Megy
+4,Silvia Riri Alvina,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Dimas
+4,Yosevina Sitanggang,,,,,,,,,,,,,DV,Installment,,Pinduit,Night,Self_funding,Isna
+4,Linda Sebastian,,,,,,,,,,,,,FT,Installment,,Pinduit,Night,Self_funding,Megy
+4,Ivan Indrapermana,,,,,,,,,,,,,ML,Installment,,,Night,Self_funding,Megy
+4,Jessica Sutanto,,,,,,,,,,,,,ML,Cash,,,Night,Self_funding,Mulia
+4,Yuri Arvian,,,,,,,,,,,,,ML,Cash,,,Night,Self_funding,Mulia
+4,Jefri Zakaria,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Isna
+5,Bramanto,05-Sep-1987,31,,Male,Jakarta,S1,Management,DS_Unrelated,Employed,,,,FT,Cash,CC,,Night,Self_funding,Mulia
+5,Muhammad Ikhsan,14-Jun-1993,25,,Male,Jakarta,S1,,,Employed,Global Loyalty Indonesia,,Data Analyst,FT,Installment,,Pinduit,Night,Self_funding,Dimas
+5,Listia Dwiputrianti,27-Feb-1995,24,,Female,Bekasi,S1,Economics,DS_Unrelated,Employed,Semut Api Colony,,Data Analyst,FT,Cash,,,Night,Self_funding,Diandra
+5,Sigit Wisnu Santoso,07-Jan-1975,44,,Male,Tangerang,S2,,,Employed,United Dico Citas,,IT,FT,Cash,,,Night,Corporate ,Isna
+5,Aris Priya Handoko,09-Aug-1980,38,,Male,Jakarta,S2,Health Informatics,DS_Unrelated,Employed,Ministry of Health,,,DV,Cash,,,Night,Self_funding,Isna
+5,Winata Syahputra,22-Dec-1995,23,,Male,Jakarta,S1,Management,DS_Unrelated,Employed,Awindo Jaya Utama,,Manajer Keuangan,FT,Installment,,Pinduit,Night,Self_funding,Isna
+5,Claudy Sonly Daniel Pangkey,31-Jul-1994,24,,Male,Jakarta,S1,Metallurgical Engineering,DS_Unrelated,Unemployed,,,,FT,Installment,,DanaCita,Night,Self_funding,Megy
+5,Danang Arbansa Nur,21-Jul-1993,25,,Male,Tuban,S2,IS & Technology,DS_Related,Unemployed,,,,FT,Cash,,,Night,Self_funding,Diandra
+5,Dendy,11-Feb-1997,22,,Male,Bangka_Belitung,S1,IT,DS_Related,Unemployed,,,,FT,Cash,,,Night,Self_funding,Dimas
+5,Doni Juli Anggoro Saktiawan,22-Jul-1988,30,,Male,Jakarta,S1,Business Law,DS_Unrelated,Employed,Astra International,,Corporate Industrial Relations - Analyst,ML,Cash,,,Night,Corporate ,Isna
+5,Hadi Ashari SA,21-Sep-1979,39,,Male,Jakarta,S1,Computer System,DS_Related,Employed,RS Khusus THT-Bedah,,IT Coordinator,FT,Cash,,,Night,Self_funding,Isna
+5,Mochamad Khalil Putra Prasetyo,17-Nov-1994,24,,Male,Serang,S1,Mechanical Engineering,DS_Unrelated,Unemployed,,,,FT,Cash,,,Night,Self_funding,Isna
+5,Edwardus Ronald Yudianto,13-Feb-1987,32,,Male,Tangerang,S1,Business Administration,DS_Unrelated,Employed,Henan Putihrai Asset Management,,Head of ERP Division,FT,Cash,,,Night,Self_funding,Isna
+5,Siti Asuroh,26-Dec-1976,42,,Female,Jakarta,S2,Statistics,DS_Related,Employed,Askrindo,,Aktuaria,FT,Cash,,,Night,Self_funding,Dimas
+5,Wignyo Diaji,02-Jul-1992,26,,Male,Riau,S1,Accounting,DS_Unrelated,Employed,Aplikanusa Lintasarta,,Finance & Office Service Department,DV,Cash,,,Night,Self_funding,Dimas
+5,Hanif Han,,,,,,,,,,,,,ML,Cash,,,Night,Self_funding,Megy
+5,Sigit Pamungkas,,,,,,,,,,,,,DV,Cash,,,Night,Self_funding,Isna
+5,Royhan Firdaus,,,,,,,,,,,,,FT,Installment,,KoinWorks,Night,Self_funding,Isna
+5,Adrian Fitra Donnovan,,,,,,,,,,,,,ML,Installment,,,Night,Self_funding,Megy
+5,Nugroho Haryoputro,,,,,,,,,,,,,FT,Cash,,,Night,Corporate,Isna
+5,Hendro Nindito,,,,,,,,,,,,,DV,Cash,,,Night,Corporate,Megy
+5,Ramadhan Danang Wijaya,02-Mar-1984,35,,Male,Bekasi,S1,Geophysics,DS_Unrelated,Employed,CGG,,Imaging Project Leader,ML,Installment,,,Night,Self_funding,Calvin
+5,Sebastian Brian Trussiadi,,,,,,,,,,,,,FT,Cash,,,Night,Self_funding,Isna
+5,Rina Novita Sari,01-Nov-1978,40,,Female,Jakarta,S2,Management,DS_Unrelated,Employed,PT Asuransi Sinar Mas,Insurance,Fund Manager,ML,Installment,,KoinWorks,Night,Self_funding,Megy
+6,Rina Novita Sari,01-Nov-1978,40,,Female,Jakarta,S2,Management,DS_Unrelated,Employed,PT Asuransi Sinar Mas,Insurance,Fund Manager,DV,Installment,,KoinWorks,Night,Self_funding,Megy
+6,Enlik,09-May-1991,27,,Male,Bekasi,S1,IT,DS_Related,Unemployed,,,,FT,Cash,,,Night,Self_funding,Dimas
+6,FX Thao Feng,02-Mar-1993,26,,Male,,S1,International Law,DS_Unrelated,Employed,Astra International,,Corporate Industrial Relations - Analyst,DV,Installment,,,Day,Corporate,Isna
+6,Etto Morcky,23-Jan-1973,46,,Male,Jakarta,S2,IT,DS_Related,Employed,John Hopkins,,ICT Specialist,FT,Cash,,,Night,Corporate,Isna
+6,Devi Fitrianti,29-Mar-1993,25,,Female,Jakarta,S1,Accounting,DS_Unrelated,Employed,PT XL Axiata,Telecommunication,Interconnect Accounting,FT,Cash,,,Night,Self_funding,Dimas
+6,Muhammad Hadlim,03-Jan-1982,37,,Male,,S2,Business Engineering,DS_Unrelated,Employed,Fiberstar,Service Provider,Head of Data Management Unit,FT,Cash,,,Night,Self_funding,Dimas
+6,Bobby Gulliano,12-Feb-1978,41,,Male,Jakarta,S2,Strategic Management,DS_Unrelated,Employed,Darya-Varia Laboratoria,Pharmaceutical,Head if ICS,FT,Cash,,,Day,Corporate,Isna
+6,Dhidi Mulyadi,15-May-1977,41,,Male,Jakarta,S1,Industrial Engineering,DS_Unrelated,Employed,Darya-Varia Laboratoria,Pharmaceutical,Information Governanace,FT,Cash,,,Day,Corporate,Isna
+6,Ananka,12-Sep-1995,23,,Male,Jakarta,S1,Economics,DS_Unrelated,Employed,Bahana Sekuritas,Securities,Economist Associate,FT,Cash,CC,,Day,Self_funding,Isna
+6,Ferdy Juniantyo Handoyo,14-Jun-1990,28,,Male,Depok,S1,Business IS and Logistic,DS_Related,Employed,Reckitt Benckiser,FMCG,IT Business Analyst,FT,Cash,,,Night,Corporate,Isna
+6,Kristian Aditya,20-May-1990,28,,Male,Jakarta,S1,Business  ,DS_Unrelated,Unemployed,,,,FT,Cash,,,Night,Self_funding,Dimas
+6,Shandi Halim,21-Aug-1991,27,,Male,Jakarta,S1,Industrial Engineering,DS_Unrelated,Employed,Triputra Agro Persada,,Senior Business Analyst,FT,Cash,,,Night,Corporate,Arlene
+6,Hisan Anis Matta,07-Feb-1993,26,,Male,Jakarta,S2,Comparative Education,DS_Unrelated,Unemployed,,,,FT,Cash,,,Day,Self_funding,Dimas
+6,Tri Nurlaela,14-Nov-1977,41,,Female,Jakarta,S1,Management IS,DS_Related,Employed,Prodia Widyahusada,Healthcare,Business & Marketing Analyst,FT,Cash,,,Night,Corporate,Isna
+6,Alvin Gunawan,12-Jun-1988,30,,Male,Jakarta,S1,Finance,DS_Unrelated,Employed,Jarvis Asset Management,Investment,Fund Manager,DV,Cash,,,Night,Self_funding,Isna
+6,Yan Ernandes,11-Nov-1981,37,,Male,Jakarta,S1,,,Employed,Jarvis Asset Management,Investment,Programmer,DV,Cash,,,Night,Self_funding,Isna
+6,Gisela Vania,04-Feb-1992,27,,Female,Banten,S1,Engineering Physics,DS_Unrelated,Employed,Dynapack Indonesia,,Environmental Sustainability Staff,FT,Cash,,,Day,Self_funding,Isna
+6,Ronny Kurniawan,02-Jul-1979,39,,Male,Jakarta,S1,Accounting,DS_Unrelated,Employed,Cipta Mapan Logistik,,Assistant Manager Consolidation,DV,Cash,,,Night,Self_funding,Isna
+6,Dian Angga Prasetyo,11-Dec-1988,30,,Male,Jakarta,S1,IS,DS_Related,Unemployed,,,,FT,Cash,,,Night,Self_funding,Dimas
+6,Primaditaningtyas Waharasto,07-Nov-1989,29,,Male,Banten,S1,Science,DS_Unrelated,Unemployed,,,,FT,Cash,,,Night,Self_funding,Isna
+6,Gerry Julian Sentoso,26-Jul-1981,37,,Male,Jakarta,S1,IS,DS_Related,Employed,NEC Indonesia,,Product Manager,DV,Cash,,,Night,Self_funding,Isna
+6,Fitri Nindyasuri,13-Mar-1994,25,,Female,Jakarta,S1,International Business,DS_Unrelated,Employed,OCBC Nisp,Bank,Digital Transformatiom,FT,Cash,,,Night,Self_funding,Megy
+6,Ricky Ariwibowo,01-Jan-1977,42,,Male,Jakarta,S1,Computer Engineering,DS_Related,Employed,GIZ GmbH,,Data Management & IS Advisor,FT,Cash,,,Night,Corporate,Isna
+6,Gunawan Sitorus,28-Mar-1992,26,,Male,Jakarta,S1,Physics,DS_Unrelated,Employed,Vads Indonesia BCA,,Staff Cash Management,FT,Installment,,DanaCita,Night,Self_funding,Megy
+6,Ika Wikasari,29-Mar-1990,28,,Female,Jakarta,S1,Accounting,DS_Unrelated,Employed,Momentum Global Pratama,,Finance Staff,FT,Installment,,DanaCita,Day,Self_funding,Dimas
+6,Eko Yulianto,18-Jul-1971,47,,Male,Jakarta,Others,,,Employed,ASDP Indonesia Ferry (Persero),,Spesialis Pengendali BBM,FT,Cash,,,Night,Corporate,Isna
+6,Abrar Fauzan,11-Sep-1998,20,,Male,Bogor,S1,Computer Science,DS_Related,Unemployed,,,,DV,Cash,CC,,Day,Self_funding,Megy
+6,Eunsung Kang,01-Feb-1980,39,,Male,Jakarta,S1,Business Administration,DS_Unrelated,Employed,Shinhan Sekuritas Indonesia,Securities,Senior Manager,FT,Cash,,,Night,Self_funding,Dimas
+6,Fitriasari Nurhidayati,11-May-1989,29,,Female,Jakarta,S2,Computer Science,DS_Related,Employed,Bank Syariah Mandiri,Bank,Data Analyst,FT,Cash,,,Night,Self_funding,Dimas
+6,Hafiz Pratama,13-May-1994,24,,Male,Semarang,S1,Pharmacy,DS_Unrelated,Unemployed,Keller Williams,,Engineer,FT,Installment,,Pinduit,Day,Self_funding,Dimas
+6,Irma Savitri Widiasri,09-Jan-1981,38,,Female,Jakarta,S1,Mathematics & Petroleum,DS_Unrelated,Employed,Chevron Pacific Indonesa,Oil & Gas,IT Data Scientist,FT,Cash,,,Night,Corporate,Isna
+6,Muhamad Makky Dandytra,10-Nov-1985,33,,Male,Depok,S1,Accounting,DS_Unrelated,Employed,Heksa Solution Insurance,Insurance,Investment Dept Head,FT,Cash,,,Night,Self_funding,Isna
+6,Hendri,17-Sep-1982,36,,Male,Jakarta,S2,IT,DS_Related,Employed,Mitra Konsultansi Indonesia,,Director,FT,Installment,,KoinWorks,Day,Self_funding,Dimas
+6,Adytiawan Arga Dwitama,29-Feb-1988,31,,Male,Jakarta,S1,Electrical Engineering,DS_Unrelated,Employed,Chevron Pacific Indonesa,Oil & Gas,Data Scientist,FT,Cash,,,Night,Corporate,Isna
+6,Eflin Wijaya,07-Dec-1983,35,,Female,Jakarta,S1,Industrial Engineering,DS_Unrelated,Employed,Rabobank International Indonesia,Bank,HR Organization Development,Adhoc,Cash,,,Night,Corporate,Megy
+6,Paul Raymond Widjaja,21-Mar-1988,31,,Male,,S1,,,Employed,Jarvis Asset Management,,Analyst,Adhoc,Cash,,,Night,Self_funding,Isna
+6,Radyka Prima Wicaksana,09-Aug-1994,24,,Male,,S1,IS,DS_Related,Employed,Toyota Motor Manufacturing ,,IT Engineer,FT,Cash,,,Day,Corporate,Megy
+6,Izdihar Farras Indiba,01-Jan-1993,26,,Male,Bekasi,S1,Financial Economics,DS_Unrelated,Unemployed,,,,FT,Cash,,,Day,Self_funding,Megy
+6,Ikhlas Pratama Sandy,09-Apr-1988,30,,Male,Depok,S2,Mathematics,DS_Unrelated,Unemployed,,,,DV,Cash,,,Night,Self_funding,Dimas
+6,Sarah Yuanita Simanjuntak,14-Jun-1989,29,,Female,Jakarta,S1,Geophysical Engineering,DS_Unrelated,Unemployed,,,,FT,Installment,,Pinduit,Day,Self_funding,Isna
+6,Ketut Sridevi Ayuningsih,08-Nov-1996,22,,Female,Banten,S1,Accounting IS,DS_Unrelated,Unemployed,,,,FT,Cash,,,Day,Self_funding,Dimas
+6,Arrizal Ichwan Yuwana,09-Sep-1984,34,,Male,Jakarta,Others,Information Management,DS_Related,Employed,PLN,,Manajer Bidang Pengembangan Materi dan Pengolahan Data,FT,Cash,,,Night,Corporate,Isna
+6,Muhammad Edo Syahputra,23-Oct-1996,22,,Male,Jakarta,S1,Computer Engineering,DS_Related,Employed,Celerates,,Big Data Developer,FT,Cash,,,Night,Self_funding,Dimas
+6,Andy Zulkarnain,29-Nov-1974,44,,Male,Jakarta,S1,,,Employed,Cignifi,,COO,DV,Cash,,,Night,Corporate,Dimas
+6,Alberto Dhammavirya,10-Dec-1996,22,,Male,Jakarta,S1,Economics,DS_Unrelated,Unemployed,,,,DV,Cash,CC,,Day,Self_funding,Megy
+6,Edo Cantona Tulus,27-Oct-1997,21,,Male,Pontianak,S1,International Relations,DS_Unrelated,Unemployed,,,,FT,Cash,,,Day,Self_funding,Mulia
+6,Donovan Abednego Gosana,01-May-1993,25,,Male,Jakarta,S1,Accounting IS,DS_Unrelated,Employed,Conversant Solutions,,Strategic Account Executive,FT,Cash,,,Night,Self_funding,Dimas
+7,Ribka Elizabeth Hutagaol,18-Mar-1994,25,,Female,Bekasi,S1,IS,DS_Related,Unemployed,,,,FT,Cash,,,Night,,Isna
+7,Muhamad Sabila Rasyad,31-Dec-1993,25,,Male,Bekasi,S1,Geophysical Engineering,DS_Unrelated,Employed,Coca-cola Amatil Indonesia,F&B,Assistant Project Manager,FT,Cash,,,Night,,Dimas
